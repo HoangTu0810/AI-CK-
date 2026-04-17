@@ -1,0 +1,3 @@
+data/malicious_phish.csv
+*.pkl
+__pycache__/
